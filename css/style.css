@@ -1,0 +1,110 @@
+.main {
+position: relative;
+width: 1219px;
+margin-right: auto;
+margin-left: auto;
+top: 30px;
+}
+
+p, h1, h3 {
+margin: 0px;
+padding: 0px;
+}
+header {
+background: green;
+position: fixed;
+margin: auto;
+width: 1219px;
+height: 40px;
+top: 0px;
+}
+.logo {
+position: absolute;
+left: 20%;
+top: 25%;
+}
+nav {
+color: white;
+position: absolute;
+right: 20%;
+}
+A, A:visited, A:active {
+color: white;
+text-decoration: none;
+}
+a img {
+border: none;
+}
+.underlogo {
+background-image: url(image/underlogo.png);
+background-size: 100% 100%;
+width: 1219px;
+height: 400px;
+}
+.underlogo p{
+text-align: center;
+color: white;
+font: 32pt sans-serif;
+line-height: 400px;
+}
+.the_problem, .PiedPiperCoin {
+background: #f5f5f5;
+width: 1219px;
+margin: auto;
+}
+h1 {
+color: green;
+text-align: center;
+}
+.the_problem, .PiedPiperCoin p {
+font-size: 26px;
+}
+.blue_mid {
+background-image: url(image/blue_mid.png);
+background-size: 100% 100%;
+width: 1219px;
+height: 400px;
+}
+.blue_mid_text {
+margin: auto;
+width: 1219px;
+height: 300px;
+}
+.blue_mid_text p {
+padding-left: 20%;
+padding-right: 20%;
+padding-top: 14%;
+padding-bottom: 14%;
+text-align: center;
+color: white;
+font: 20pt sans-serif;
+font-style: oblique;
+}
+.cell1 {
+margin: 20px;
+padding: 20px;
+}
+.the_team {
+background: #f5f5f5;
+width: 1219px;
+margin: auto;
+}
+figcaption {
+text-align: center;
+} 
+figcaption h3{
+color: green;
+} 
+.footer {
+background: #333333;
+width: 1219px;
+height: 130px;
+color: white;
+}
+.footer_text {
+margin: auto;
+width: 350px;
+height: 50px;
+text-align: center;
+padding-top: 30px;
+}
