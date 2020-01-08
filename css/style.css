@@ -88,6 +88,14 @@ padding: 20px;
 background: #f5f5f5;
 width: 1219px;
 margin: auto;
+padding-top: 30px;
+}
+.flex {
+display: flex;
+margin: auto;
+width: 800px;
+flex-flow: row wrap;
+justify-content: center;
 }
 figcaption {
 text-align: center;
