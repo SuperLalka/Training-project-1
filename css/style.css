@@ -1,6 +1,6 @@
 @media (min-device-width: 426px) {
 .main {
-  width: 1219px;
+  max-width: 1219px;
   margin: auto;
 } 
 .the_problem, .PiedPiperCoin {
