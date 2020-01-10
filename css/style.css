@@ -1,22 +1,21 @@
 @media (min-device-width: 426px) {
-.main {
-  max-width: 1219px;
-  margin: auto;
+  .main {
+    max-width: 1219px;
+    margin: auto;
 } 
-.the_problem, .PiedPiperCoin {
-  margin: 2% 10% 2% 10%;
-  padding: 2% 5% 2% 5%; 
+  .the_problem, .PiedPiperCoin {
+    margin: 2% 10% 2% 10%;
+    padding: 2% 5% 2% 5%; 
 }  
 }
 @media (max-device-width: 425px) {  
-.main {
-  margin: auto;
+  .main {
+    margin: auto;
 }
-.the_problem, .PiedPiperCoin {
-  padding: 2% 5% 2% 5%;
+  .the_problem, .PiedPiperCoin {
+    padding: 2% 5% 2% 5%;
 }
 } 
-
 p, h1, h3 {
   margin: 0px;
   padding: 0px;
